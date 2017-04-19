@@ -1,8 +1,13 @@
+h1 {
+  text-align: center;
+}
+
 .cancha {
   position: relative;
   height: 390px;
   width: 690px;
   background-color: green;
+  left: 24%;
 }
 
 .lineaFuera {
